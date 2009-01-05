@@ -1,0 +1,17 @@
+#summary Documentation from previous XaraLX project
+
+= XaraLX Documentation =
+
+A lot of the documentation provided for the previous XaraLX project is still available at www.xaraxtreme.org, although many of the links required to get to the docs are non-functioning.  
+
+The following pages from the original documentation are still online - if you find any more, please add.
+
+||[http://www.xaraxtreme.org/Developers/camelot-technical-basics.html Introduction to Camalot Code (XaraLX)]||http://www.xaraxtreme.org/Developers/camelot-technical-basics.html||
+||[http://downloads.xara.com/opensource/doxygen/html/dirs.html Camalot Docs]||http://downloads.xara.com/opensource/doxygen/html/dirs.html||
+||[http://www.xaraxtreme.org/Developers/wxwidgets-porting-tips.html wxWidgets porting tips]||http://www.xaraxtreme.org/Developers/wxwidgets-porting-tips.htm||
+||[http://site.xara.com/support/docs/webformat/spec/XARFormatDocument.pdf Xara File Format]||http://site.xara.com/support/docs/webformat/spec/XARFormatDocument.pdf||
+||[http://www.xaraxtreme.org/Developers/tasks-remaining-prior-to-10.html Task Remaining]||http://www.xaraxtreme.org/Developers/tasks-remaining-prior-to-10.html||
+||[http://www.xaraxtreme.org/Developers/xara-xtreme-for-linux-build-instructions.html Linux Build Instructions]||http://www.xaraxtreme.org/Developers/xara-xtreme-for-linux-build-instructions.html||
+||[http://www.xaraxtreme.org/Developers/xara-xtreme-for-linux-build-instructions.html Mac Build Instructions]||http://www.xaraxtreme.org/Developers/xara-xtreme-for-linux-build-instructions.html||
+||[http://www.xaraxtreme.org/Developers/translating-xara-xtreme-for-linux.html Translating XaraLX]||http://www.xaraxtreme.org/Developers/translating-xara-xtreme-for-linux.html||
+||[http://bugzilla.xara.com/ XaraLX Bugzilla]||http://bugzilla.xara.com/||
