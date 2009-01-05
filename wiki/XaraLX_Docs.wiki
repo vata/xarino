@@ -16,7 +16,62 @@ The following pages from the original documentation are still online - if you fi
 ||[http://www.xaraxtreme.org/Developers/translating-xara-xtreme-for-linux.html Translating XaraLX]||http://www.xaraxtreme.org/Developers/translating-xara-xtreme-for-linux.html||
 ||[http://bugzilla.xara.com/ XaraLX Bugzilla]||http://bugzilla.xara.com/||
 
-These pages have been taken from the internet archive, as they've been removed from the xaraxtreme.org current site;
+The following pages have been taken from the internet archive, as they've been removed from the xaraxtreme.org site;
 
 ||[http://web.archive.org/web/20060117163755/www.xaraxtreme.org/content/view/36/77/ Resources and the build system]||http://web.archive.org/web/20060117163755/www.xaraxtreme.org/content/view/36/77/||
 ||[http://web.archive.org/web/20060115041157/www.xaraxtreme.org/content/view/34/73/ Code Conventions]||http://web.archive.org/web/20060115041157/www.xaraxtreme.org/content/view/34/73/||
+
+*User Interface*
+
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/developers/ui.html Xara LX User Interface description ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/41/74/ The CamArtProvider System ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/48/74/ Implementation of the View classes ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/66/ The A to Z of Blobs ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/69/ Click Processing ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/84/ Rendering Into Dialog Boxes ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/94/ The Camelot Colour Editor ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/119/99999999/ Xara LX Focus Handing Rules ]||
+
+*Printing*
+
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/101/ PostScript Printing ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/102/ Print Loop ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/103/ Printing Sub-System ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/127/99999999/ XaraLX printing alternatives ]||
+
+
+*Other Documents*
+
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/68/ Bounding Rectangles and How They Work ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/70/ The Colour System ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/71/ Co-ordinate System ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/72/ Dragging selected objects ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/73/ Using the Global Drag Manager ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/74/ Using Files ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/75/ Idle Events in Camelot ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/76/ Camelot messages ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/78/ Camelot’s Messaging System ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/79/ Creating a new operation ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/80/ Using OrderedLists ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/81/ How to use Paths and NodePaths ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/82/ Camelot Preferences ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/83/ The New Camelot Progress System ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/85/ Render Region List ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/86/ Snapping in Camelot ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/89/ ScrollToShow Implementation ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/90/ Attribute Stacking ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/91/ AllowOp ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/92/ The Mould Tool ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/93/ All about QuickShapes ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/95/ Dialog system specification ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/120/99999999/ Creating Tabbed Dialogs and Notebooks]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/96/ Smoothing Bezier Points ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/97/ The Camelot rendering system ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/98/ Transformations ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/99/ Selection Bounds Handling ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/100/ Path stroking ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/104/99999999/ Attribute Application, Optimisation &amp; Integrity ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/109/ Creating a new Tool ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/110/ Error trapping and reporting ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/114/ String handling ]||
+||[http://web.archive.org/web/20071103132649rn_2/www.xaraxtreme.org/content/view/128/ Flash export filter ]||
