@@ -15,3 +15,8 @@ The following pages from the original documentation are still online - if you fi
 ||[http://www.xaraxtreme.org/Developers/xara-xtreme-for-linux-build-instructions.html Mac Build Instructions]||http://www.xaraxtreme.org/Developers/xara-xtreme-for-linux-build-instructions.html||
 ||[http://www.xaraxtreme.org/Developers/translating-xara-xtreme-for-linux.html Translating XaraLX]||http://www.xaraxtreme.org/Developers/translating-xara-xtreme-for-linux.html||
 ||[http://bugzilla.xara.com/ XaraLX Bugzilla]||http://bugzilla.xara.com/||
+
+These pages have been taken from the internet archive, as they've been removed from the xaraxtreme.org current site;
+
+||[http://web.archive.org/web/20060117163755/www.xaraxtreme.org/content/view/36/77/ Resources and the build system]||http://web.archive.org/web/20060117163755/www.xaraxtreme.org/content/view/36/77/||
+||[http://web.archive.org/web/20060115041157/www.xaraxtreme.org/content/view/34/73/ Code Conventions]||http://web.archive.org/web/20060115041157/www.xaraxtreme.org/content/view/34/73/||
