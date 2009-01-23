@@ -17,4 +17,4 @@ This are the guidelines which should be applied to choosing the name for a relea
   * Releases (0.1 etc) should have been tested substantially before release to ensure stability.
   * Subreleases will contain features destined for the next release and should be considered unstable. They should work without any immediately obvious showstoppers but this may not always be the case.
   * Before every major release after 0.3 we will have one beta release first for testing which should contain all of the features for the release and and after that only bug fixes may be included after that. Any other changes must go in a trunk for inclusion in a later release.
-  * In terms of the SVN repo we should tag for every subrelease. We should aim to work on each bug in a branch and only sync to trunk when we have got the code in a reasonable state. Trunk should build at all times.
+  * In terms of the SVN repo we should tag for every subrelease. We should aim to work on commit to trunk as soon as a revisions are in a usable state but try and ensure that nothing we commit to trunk stops it from building.
