@@ -122,7 +122,7 @@ service marks of Xara Group Ltd. All rights in these marks are reserved.
 #include "grnddib.h"
 #include "ppbrush.h"
 #include "qualattr.h"
-
+#include <algorithm>
 
 
 
