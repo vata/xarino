@@ -126,7 +126,7 @@ OILPreferences* OILPreferences::Init()
 {
 	wxStandardPaths		Paths;
 	wxString	strPath( Paths.GetUserConfigDir() );
-	strPath += _T("/.xaralx");
+    strPath += _T("/.xarino");
 
 	// Delete any file that exists where the directory should be
 	if (wxFile::Exists(strPath))
